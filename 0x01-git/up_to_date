@@ -1,9 +1,0 @@
-git add .
-
-git clone
-
-git commit -m 'My first commit
-
-git checkout -b update_script 
-
- git push
